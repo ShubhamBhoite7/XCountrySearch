@@ -1,0 +1,17 @@
+.container{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ gap: 10px;
+ height: 200px;
+ width: 200px;
+ border: 1px solid black;
+ border-radius: 20px;
+ flex-wrap: wrap;
+     
+}
+.flag {
+    width: 100px;
+    height: auto;
+  }
